@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ProgressSlider.qml</file>
+        <file>Slider.qml</file>
+        <file>GridViewTab.qml</file>
+        <file>Progress.qml</file>
+        <file>TextGrid.qml</file>
+        <file>SveZajedno.qml</file>
+        <file>GridViewModel.qml</file>
+        <file>Breadcrumb.qml</file>
+        <file>DashboardProgress.qml</file>
+        <file>GraphView.qml</file>
+        <file>Review.qml</file>
+        <file>img/5.webp</file>
+        <file>img/left-arrow.png</file>
+        <file>img/right-arrow.png</file>
+        <file>Izbornik.qml</file>
+        <file>img/menu.png</file>
+        <file>img/home.png</file>
+        <file>img/search-interface-symbol.png</file>
+        <file>img/bar-chart.png</file>
+        <file>img/file-backup.png</file>
+        <file>img/magnifier.png</file>
+        <file>img/trend.png</file>
+        <file>img/google-docs.png</file>
+        <file>img/353416_home_icon.svg</file>
+        <file>img/3844432_magnifier_search_zoom_icon.svg</file>
+        <file>img/7830785_analytics_graph_bar_icon.svg</file>
+        <file>img/2203540_bar_chart_stat_statistic_icon.svg</file>
+        <file>img/1916081_brand_brands_docs_google_logo_icon.svg</file>
+        <file>img/2205243_chemistry_experiment_flask_lab_science_icon.svg</file>
+        <file>img/7058784_double_arrow_right_icon.svg</file>
+        <file>img/9036037_rocket_sharp_icon.svg</file>
+        <file>img/326639_download_file_icon.svg</file>
+        <file>img/bookmark.png</file>
+        <file>img/9055125_bxs_bookmark_icon.svg</file>
+        <file>img/Bookmark.svg</file>
+        <file>img/Bookmark - Copy.svg</file>
+        <file>img/Bookmark - Copy - Copy.svg</file>
+        <file>TableQml.qml</file>
+        <file>img/326722_module_view_icon.svg</file>
+        <file>img/352204_list_view_icon.svg</file>
+        <file>img/3669149_module_ic_view_icon.svg</file>
+        <file>DetailsTab1.qml</file>
+        <file>img/20601504151557740339.svg</file>
+        <file>img/20601504151557740339_1.svg</file>
+        <file>img/20601504151557740339_2.svg</file>
+        <file>DetailsTab2.qml</file>
+        <file>NdChartViewPieModule.qml</file>
+        <file>NdChartViewBarsModule.qml</file>
+        <file>DescModel.qml</file>
+        <file>img/309035_user_account_human_person_icon.png</file>
+        <file>img/285645_user_icon.svg</file>
+        <file>TimelineTab.qml</file>
+        <file>img/9041286_hexagon_fill_icon.svg</file>
+        <file>Servis.qml</file>
+        <file>img/defect-rubber-stamp-grunge-seal-260nw-1944697186.webp</file>
+        <file>RNTable.qml</file>
+    </qresource>
+</RCC>
